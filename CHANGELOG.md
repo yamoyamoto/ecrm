@@ -1,5 +1,7 @@
 # Changelog
 
+## [v0.0.1](https://github.com/yamoyamoto/ecrm/commits/v0.0.1) - 2024-09-25
+
 ## [v0.5.0](https://github.com/fujiwara/ecrm/compare/v0.4.0...v0.5.0) - 2024-09-13
 - modernization by @fujiwara in https://github.com/fujiwara/ecrm/pull/21
 - Bump github.com/Songmu/prompter from 0.5.0 to 0.5.1 by @dependabot in https://github.com/fujiwara/ecrm/pull/29
